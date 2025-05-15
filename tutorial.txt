@@ -20,7 +20,7 @@ Container states:
 	- Terminated
 
 --------
-	
+
 How Pods handle problems with containers
 
 Kubernetes manages container failures within Pods using a restartPolicy defined in the Pod spec.
