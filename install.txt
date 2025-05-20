@@ -16,6 +16,7 @@ if ($oldPath.Split(';') -inotcontains 'C:\minikube'){
 }
 
 
+# start
 minikube start
 
 
