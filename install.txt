@@ -5,6 +5,7 @@ kubectl version --client
 
 --------------------
 
+# Windows Features → Hyper-V   (Enabled)
 
 # minikube install
 New-Item -Path 'd:\' -Name 'minikube' -ItemType Directory -Force
